@@ -1,0 +1,1 @@
+I am an Economics Ph.D. candidate at the University of Arizona. I am interested in addressing policy-relevant issues with a focus on applied microeconomics. My main research fields are energy and environmental economics, industrial organization, econometrics, and health economics.

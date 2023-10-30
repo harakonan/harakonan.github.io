@@ -58,32 +58,14 @@ plugins:
 author:
   name   : "Konan Hara"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Economics Ph.D. Candidate at the University of Arizona"
+  # bio    : "Economics Ph.D. Candidate at the University of Arizona"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "harakonan@arizona.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:harakonan@arizona.edu"
     - label: "harakonan"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harakonan"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
-
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
 
 defaults:
   # _posts
