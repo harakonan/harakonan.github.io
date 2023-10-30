@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Konan Hara"
   avatar : "/assets/images/bio-photo.jpg"
-  # bio    : "Economics Ph.D. Candidate at the University of Arizona"
+  bio    : " "
   links:
     - label: "harakonan@arizona.edu"
       icon: "fas fa-fw fa-envelope-square"
