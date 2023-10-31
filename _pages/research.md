@@ -5,15 +5,18 @@ permalink: /research/
 
 ## Working Papers
 
-[Encouraging Renewable Investment: Risk Sharing Using Auctions](../assets/pdfs/Hara_RenewableRiskSharingAuction.pdf) (Job Market Paper)
+[Encouraging Renewable Investment: Risk Sharing Using Auctions](../assets/pdfs/Hara_RenewableRiskSharingAuction.pdf) (Job Market Paper)  
+<span style="font-size:0.75em"> I propose a structural framework of policymakers using risk-sharing contracts to support risk-averse investors' new renewable energy projects. An astounding fact that inspired me to consider risk-averse investors and the consequences of this risk aversion is that renewable investors make interior portfolio choices in my data, which cannot explained by risk-neutral investors. I model these risk-sharing contracts and show that investors' risk aversion gives rise to the policymaker's cost-risk trade-off. To empirically assess this trade-off, I study Brazilian auctions that provide power purchase agreements---a version of risk-sharing contracts---and allow bidders to have portfolio choices. I build and estimate a structural model of risk-averse bidders in these auctions to uncover bidders' risk aversion and costs. I find that bidders are substantially risk averse and then quantify the policymaker's trade-off using the structural estimates. </span>
 
 ## Work in Progress
 
 Estimating Dynamic Games with Unknown Information Structure  
-(with [Yuki Ito](https://www.econ.berkeley.edu/grad/profiles/15341) and [Paul Koh](https://www.pskoh.com/))
+(with [Yuki Ito](https://www.econ.berkeley.edu/grad/profiles/15341) and [Paul Koh](https://www.pskoh.com/))  
+<span style="font-size:0.75em"> We study the identification of dynamic games when the underlying information structure is unknown to the researcher. To tractably characterize the set of Markov perfect equilibrium predictions while maintaining weak assumptions on players' information, we introduce Markov correlated equilibrium, a dynamic analog of Bayes correlated equilibrium. We show that the set of Markov correlated equilibrium predictions coincides with the set of Markov perfect equilibrium predictions that can arise when the players might observe more signals than assumed by the analyst. We then propose computational strategies for estimation and counterfactual analysis. </span>
 
 Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks  
-(with [Yuki Ito](https://www.econ.berkeley.edu/grad/profiles/15341))
+(with [Yuki Ito](https://www.econ.berkeley.edu/grad/profiles/15341))  
+<span style="font-size:0.75em"> We study the role of racial concordance between primary care physicians and specialists in physician referral network formation and its consequences on racial health disparity. Using a 20% random sample of Medicare beneficiaries in the United States, we find that primary care physicians refer patients to the same race specialists more than otherwise, especially when the patients are also the same race. We propose a structural framework to separately identify the racial concordance effect net of health outcome benefits on referral decisions and the racial concordance effect on health outcomes. </span>
 
 Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regulator Preferences  
 (with Gautam Gowrisankaran and Ashley Langer)
