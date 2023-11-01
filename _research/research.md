@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Economics"
 permalink: /research/
 ---
 
@@ -27,9 +27,12 @@ Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regula
 The Effect of Inertia on Brand-Name versus Generic Drug Choices  
 (with Yuki Ito and Yasuki Kobayashi) *Journal of Economic Behavior & Organization*, 172, 364--379, April, 2020.
 
-## Public Health and Clinical Research
+<br>
+<br>
 
-### First and Corresponding Author Publications
+# Public Health and Clinical Research
+
+## First and Corresponding Author Publications
 
 Ryo Ikesu, Ayumi Taguchi, **Konan Hara**, Kei Kawana, Tetsushi Tsuruga, Jun Tomio,
   and Yutaka Osuga.  
@@ -50,7 +53,7 @@ Association Measures of Claims-Based Algorithms for Common Chronic
   Conditions Were Assessed Using Regularly Collected Data in Japan  
 *Journal of Clinical Epidemiology*, 99, 84--95, 2018.
 
-### Other Publications
+## Other Publications
 
 Katsuhiko Nara, Ayumi Taguchi, Takehito Yamamoto, **Konan Hara**, Yuri Tojima,
   Harunori Honjoh, Akira Nishijima, Satoko Eguchi, Yuichiro Miyamoto, Kenbun

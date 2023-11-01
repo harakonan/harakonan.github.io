@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdfs/CV_KH_jobmarket.pdf</loc>
-<lastmod>2023-10-31T05:22:34-07:00</lastmod>
+<lastmod>2023-11-01T04:10:41-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdfs/Hara_RenewableRiskSharingAuction.pdf</loc>
@@ -23,5 +23,13 @@
 <url>
 <loc>http://localhost:4000/assets/pdfs/Summer2023_Econ460_Evaluation.pdf</loc>
 <lastmod>2023-07-18T17:04:14-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/research_statement.pdf</loc>
+<lastmod>2023-11-01T04:06:31-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/teaching_statement.pdf</loc>
+<lastmod>2023-11-01T04:05:33-07:00</lastmod>
 </url>
 </urlset>

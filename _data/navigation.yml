@@ -8,3 +8,16 @@ main:
     url: /teaching/
   - title: "CV"
     url: /cv/
+
+research:
+  - title: "Economics"
+    url: /research/
+    children:
+      - title: "Working Papers"
+        url: /research/#working-papers
+      - title: "Work in Progress"
+        url: /research/#work-in-progress
+      - title: "Published Papers"
+        url: /research/#published-papers
+  - title: "Public Health and Clinical Research"
+    url: /research/#public-health-and-clinical-research
