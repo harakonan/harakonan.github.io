@@ -38,7 +38,7 @@ Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regula
 
 [Prognosis of High‐Risk Human Papillomavirus‐Related Cervical
   Lesions: A Hidden Markov Model Analysis of a Single‐Center Cohort in
-  Japan..](https://doi.org/10.1002/cam4.4470)
+  Japan.](https://doi.org/10.1002/cam4.4470)
 *Cancer Medicine*, 11(3), 664--675, 2022.<br>
 Ryo Ikesu, Ayumi Taguchi, **Konan Hara**, Kei Kawana, Tetsushi Tsuruga, Jun Tomio,
   and Yutaka Osuga.
