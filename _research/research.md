@@ -21,7 +21,7 @@ Primary Care Physician-Specialist Racial Concordance in Forming Referral Network
 <span style="font-size:0.75em"> We study the role of racial concordance between primary care physicians and specialists in physician referral network formation and its consequences on racial health disparity. Using a 20% random sample of Medicare beneficiaries in the United States, we find that primary care physicians refer patients to the same race specialists more than otherwise, especially when the patients are also the same race. We propose a structural framework to separately identify the racial concordance effect net of health outcome benefits on referral decisions and the racial concordance effect on health outcomes. </span>
 
 Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regulator Preferences<br>
-(with Gautam Gowrisankaran and Ashley Langer)
+(with Gautam Gowrisankaran and Ashley Langer)<br>
 <span style="font-size:0.75em"> We develop a structural framework of the interplay between the regulator and coal power plants in the context of dynamic enforcement. Plants invest in pollution abatement technologies in response to the regulator's dynamic enforcement decisions. The regulator faces the trade-off between pollution and fines because heavy fines reduce pollution but harm the local economy. We estimate the regulator's utility function, formulated as the weighted sum of the disutility from pollution and fines, along with the plants' dynamic investment decision model. We use the model to evaluate how enforcement decisions affect the welfare of minority and low-income communities. </span>
 
 ## Published Papers
