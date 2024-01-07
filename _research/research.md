@@ -22,7 +22,7 @@ Primary Care Physician-Specialist Racial Concordance in Forming Referral Network
 
 Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regulator Preferences<br>
 (with Gautam Gowrisankaran and Ashley Langer)
-
+<span style="font-size:0.75em"> We develop a structural framework of the interplay between the regulator and coal power plants in the context of dynamic enforcement. Plants invest in pollution abatement technologies in response to the regulator's dynamic enforcement decisions. The regulator faces the trade-off between pollution and fines because heavy fines reduce pollution but harm the local economy. We estimate the regulator's utility function, formulated as the weighted sum of the disutility from pollution and fines, along with the plants' dynamic investment decision model. We use the model to evaluate how enforcement decisions affect the welfare of minority and low-income communities. </span>
 
 ## Published Papers
 
