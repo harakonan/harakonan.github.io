@@ -29,8 +29,6 @@ Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regula
 [The Effect of Inertia on Brand-Name versus Generic Drug Choices](https://doi.org/10.1016/j.jebo.2019.12.022)<br>
 (with Yuki Ito and Yasuki Kobayashi) *Journal of Economic Behavior & Organization*, 172, 364--379, April, 2020.
 
-<br>
-<br>
 
 # Public Health and Clinical Research
 
@@ -55,7 +53,48 @@ Ryo Ikesu, Ayumi Taguchi, **Konan Hara**, Kei Kawana, Tetsushi Tsuruga, Jun Tomi
 **Konan Hara**, Jun Tomio, Thomas Svensson, Rika Ohkuma, Akiko Kishi Svensson, and
   Tsutomu Yamazaki.
 
+## Selected Papers
+
+[Heterogeneous Treatment Effect of Dose‐Dense Paclitaxel Plus
+  Carboplatin Therapy for Advanced Ovarian Cancer.](https://doi.org/10.1002/ijc.34996)
+*International Journal of Cancer*, pages 1--10, 2024.<br>
+Ayumi Taguchi, Kosuke Kato, Akiko Furusawa, **Konan Hara**, Kenbun Sone, Kyosuke
+  Yamada, Hiroaki Kajiyama, Muneaki Shimada, and Aikou Okamoto.
+
+[Radiation Therapy and the Risk of Herpes Zoster in Patients with
+  Cancer.](https://doi.org/10.1002/cncr.32926)
+*Cancer*, 126(15), 3552--3559, 2020.<br>
+Takuya Shimizuguchi, Noritaka Sekiya, **Konan Hara**, Ayumi Taguchi, Yujiro
+  Nakajima, Yu Miyake, Yukiko Shibata, Kentaro Taguchi, Hiroaki Ogawa, Kei Ito,
+  and Katsuyuki Karasawa.
+
+[Heterogeneous Impact of Cytomegalovirus Reactivation on Nonrelapse
+  Mortality in Hematopoietic Stem Cell Transplantation.](https://doi.org/10.1182/bloodadvances.2019000814)
+*Blood Advances*, 4(6), 1051--1061, 2020.<br>
+Satoshi Kaito, Yujiro Nakajima, **Konan Hara**, Takashi Toya, Tetsuya Nishida,
+  Naoyuki Uchida, Junichi Mukae, Takahiro Fukuda, Yukiyasu Ozawa, Masatsugu
+  Tanaka, Kazuhiro Ikegame, Yuta Katayama, Takuro Kuriyama, Junya Kanda,
+  Yoshiko Atsuta, Masao Ogata, Ayumi Taguchi, and Kazuteru Ohashi.
+
+[Multistate Markov Model to Predict the Prognosis of High-Risk Human
+  Papillomavirus-Related Cervical Lesions.](https://doi.org/10.3390/cancers12020270)
+*Cancers*, 12(2), 270, 2020.<br>
+Ayumi Taguchi, **Konan Hara**, Jun Tomio, Kei Kawana, Tomoki Tanaka, Satoshi Baba,
+  Akira Kawata, Satoko Eguchi, Tetsushi Tsuruga, Mayuyo Mori, Katsuyuki Adachi,
+  Takeshi Nagamatsu, Katsutoshi Oda, Toshiharu Yasugi, Yutaka Osuga, and
+  Tomoyuki Fujii.
+
 ## Other Papers
+
+[Increased Risk of Placenta Previa and Preterm Birth in Pregnant
+  Women With Endometriosis/Adenomyosis: A Propensity‐Score Matching Analysis
+  of a Nationwide Perinatal Database in Japan.](https://doi.org/10.1111/jog.15849)
+*Journal of Obstetrics and Gynaecology Research*, 50(3):351--357,
+  2024.<br>
+Kosuke Kato, Takayuki Iriyama, **Konan Hara**, Kensuke Suzuki, Ayako Hashimoto,
+  Seisuke Sayama, Mari Ichinose, Masatake Toshimitsu, Takahiro Seyama, Kenbun
+  Sone, Keiichi Kumasawa, Takeshi Nagamatsu, Yasushi Hirota, Kaori Koga, and
+  Yutaka Osuga.
 
 [Heterogeneous Effects of Cytotoxic Chemotherapies for
   Platinum-Resistant Ovarian Cancer.](https://doi.org/10.1007/s10147-023-02367-1)
@@ -144,21 +183,6 @@ Yoshitaka Kinoshita, Takashi Yagisawa, Toru Sugihara, **Konan Hara**, Saki
   Akito Maeshima, Jun Kamei, Akira Fujisaki, Satoshi Ando, Motofumi Suzuki,
   Haruki Kume, and Tetsuya Fujimura.
 
-[Radiation Therapy and the Risk of Herpes Zoster in Patients with
-  Cancer.](https://doi.org/10.1002/cncr.32926)
-*Cancer*, 126(15), 3552--3559, 2020.<br>
-Takuya Shimizuguchi, Noritaka Sekiya, **Konan Hara**, Ayumi Taguchi, Yujiro
-  Nakajima, Yu Miyake, Yukiko Shibata, Kentaro Taguchi, Hiroaki Ogawa, Kei Ito,
-  and Katsuyuki Karasawa.
-
-[Heterogeneous Impact of Cytomegalovirus Reactivation on Nonrelapse
-  Mortality in Hematopoietic Stem Cell Transplantation.](https://doi.org/10.1182/bloodadvances.2019000814)
-*Blood Advances*, 4(6), 1051--1061, 2020.<br>
-Satoshi Kaito, Yujiro Nakajima, **Konan Hara**, Takashi Toya, Tetsuya Nishida,
-  Naoyuki Uchida, Junichi Mukae, Takahiro Fukuda, Yukiyasu Ozawa, Masatsugu
-  Tanaka, Kazuhiro Ikegame, Yuta Katayama, Takuro Kuriyama, Junya Kanda,
-  Yoshiko Atsuta, Masao Ogata, Ayumi Taguchi, and Kazuteru Ohashi.
-
 [Differential Expression of Human Papillomavirus 16-, 18-, 52-, and
   58-Derived Transcripts in Cervical Intraepithelial Neoplasia.](https://doi.org/10.1186/s12985-020-01306-0)
 *Virology Journal*, 17(1), 32, 2020.<br>
@@ -175,14 +199,6 @@ Satoshi Baba, Ayumi Taguchi, Akira Kawata, **Konan Hara**, Satoko Eguchi, Mayuyo
 Ayumi Taguchi, Akiko Furusawa, Kei Ito, Yujiro Nakajima, Takuya Shimizuguchi,
   **Konan Hara**, Maki Takao, Tomoko Kashiyama, Nao Kino, Katsuyuki Karasawa, and
   Toshiharu Yasugi.
-
-[Multistate Markov Model to Predict the Prognosis of High-Risk Human
-  Papillomavirus-Related Cervical Lesions.](https://doi.org/10.3390/cancers12020270)
-*Cancers*, 12(2), 270, 2020.<br>
-Ayumi Taguchi, **Konan Hara**, Jun Tomio, Kei Kawana, Tomoki Tanaka, Satoshi Baba,
-  Akira Kawata, Satoko Eguchi, Tetsushi Tsuruga, Mayuyo Mori, Katsuyuki Adachi,
-  Takeshi Nagamatsu, Katsutoshi Oda, Toshiharu Yasugi, Yutaka Osuga, and
-  Tomoyuki Fujii.
 
 [Can Income-Based Co-payment Rates Improve Disparity? The Case of the
   Choice between Brand-Name and Generic Drugs.](https://doi.org/10.1186/s12913-019-4598-8)
