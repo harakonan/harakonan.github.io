@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ### Sole Instructor of Record at University of Arizona
 
-- Industrial Organization (Summer 2023) [Teaching Evaluation](../assets/pdfs/Summer2023_Econ460_Evaluation.pdf)
+- Industrial Organization (Summer 2023)
 
 
 ### Teaching Assistant at University of Arizona

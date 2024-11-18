@@ -8,7 +8,7 @@ permalink: /research/
 ## Working Papers
 
 [Encouraging Renewable Investment: Risk Sharing Using Auctions](../assets/pdfs/Hara_RenewableRiskSharingAuction.pdf)<br>
-<span style="font-size:0.75em"> Widespread investment in renewable energy is seen as a critical tool in mitigating the impacts of climate change. However, renewable energy projects face substantial risk because they sell their electricity into volatile wholesale electricity markets, and this risk may hinder investments that otherwise appear profitable. Policymakers looking to encourage renewable investment can choose between direct subsidies for renewable investment and power purchase agreements that assume the risk of future electricity sales. The relative value of these two approaches depends critically upon investors' risk premium. This paper investigates this trade-off in the context of Brazilian wind energy actions that award winners purchase agreements for a share of their production. I develop and estimate a structural auction model that separately recovers the investors' risk aversion and private costs. I find that investors are substantially risk averse: investors require an additional risk premium of $20.16/MWh to accept the risk of selling all electricity into the wholesale market, where revenues have a standard deviation of $5.44/MWh. For 3% of Brazil's generation capacity auctioned, full share purchase agreements will be expected to cost $20 billion less than subsidies. </span>
+<span style="font-size:0.75em"> Renewable energy projects face substantial risk because they sell their electricity into volatile wholesale electricity markets. Policymakers looking to encourage renewable investment can choose between power purchase agreements that assume investors' risk of future electricity sales and generation subsidies that let investors take the risk. The relative value of these two approaches depends critically upon investors' risk premium. This paper investigates this trade-off in the context of Brazilian wind energy actions that award winners purchase agreements for a share of their production. I develop and estimate a structural auction model that separately recovers the investors' wholesale market beliefs, consisting of the expected price and risk premium, and private costs. The policymaker is expected to save $4.4 billion by taking the entire risk of enticing investors to install wind turbines that cost $12.2 billion. However, the policymaker must bear all future wholesale market risk over 20 years. </span>
 
 [Identification and Estimation of Dynamic Games with Unknown Information Structure](https://arxiv.org/abs/2205.03706)<br>
 (with Yuki Ito and Paul Koh)<br>
@@ -32,27 +32,6 @@ Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regula
 
 # Public Health and Clinical Research
 
-## First and Corresponding Author Papers
-
-[Prognosis of High‐Risk Human Papillomavirus‐Related Cervical
-  Lesions: A Hidden Markov Model Analysis of a Single‐Center Cohort in
-  Japan.](https://doi.org/10.1002/cam4.4470)
-*Cancer Medicine*, 11(3), 664--675, 2022.<br>
-Ryo Ikesu, Ayumi Taguchi, **Konan Hara**, Kei Kawana, Tetsushi Tsuruga, Jun Tomio,
-  and Yutaka Osuga.
-
-[Claims-Based Algorithms for Common Chronic Conditions Were
-  Efficiently Constructed Using Machine Learning Methods.](https://doi.org/10.1371/journal.pone.0254394)
-*PLOS ONE*, 16(9), e0254394, 2021.<br>
-**Konan Hara**, Yasuki Kobayashi, Jun Tomio, Yuki Ito, Thomas Svensson, Ryo Ikesu,
-  Ung-il Chung, and Akiko Kishi Svensson.
-
-[Association Measures of Claims-Based Algorithms for Common Chronic
-  Conditions Were Assessed Using Regularly Collected Data in Japan.](https://doi.org/10.1016/j.jclinepi.2018.03.004)
-*Journal of Clinical Epidemiology*, 99, 84--95, 2018.<br>
-**Konan Hara**, Jun Tomio, Thomas Svensson, Rika Ohkuma, Akiko Kishi Svensson, and
-  Tsutomu Yamazaki.
-
 ## Selected Papers
 
 [Heterogeneous Treatment Effect of Dose‐Dense Paclitaxel Plus
@@ -60,6 +39,19 @@ Ryo Ikesu, Ayumi Taguchi, **Konan Hara**, Kei Kawana, Tetsushi Tsuruga, Jun Tomi
 *International Journal of Cancer*, pages 1--10, 2024.<br>
 Ayumi Taguchi, Kosuke Kato, Akiko Furusawa, **Konan Hara**, Kenbun Sone, Kyosuke
   Yamada, Hiroaki Kajiyama, Muneaki Shimada, and Aikou Okamoto.
+
+[Prognosis of High‐Risk Human Papillomavirus‐Related Cervical
+  Lesions: A Hidden Markov Model Analysis of a Single‐Center Cohort in
+  Japan.](https://doi.org/10.1002/cam4.4470)
+*Cancer Medicine*, 11(3), 664--675, 2022.<br>
+Ryo Ikesu, Ayumi Taguchi, **Konan Hara** (Co-corresponding Author), Kei Kawana, Tetsushi Tsuruga, Jun Tomio,
+  and Yutaka Osuga.
+
+[Claims-Based Algorithms for Common Chronic Conditions Were
+  Efficiently Constructed Using Machine Learning Methods.](https://doi.org/10.1371/journal.pone.0254394)
+*PLOS ONE*, 16(9), e0254394, 2021.<br>
+**Konan Hara**, Yasuki Kobayashi, Jun Tomio, Yuki Ito, Thomas Svensson, Ryo Ikesu,
+  Ung-il Chung, and Akiko Kishi Svensson.
 
 [Radiation Therapy and the Risk of Herpes Zoster in Patients with
   Cancer.](https://doi.org/10.1002/cncr.32926)
@@ -83,6 +75,12 @@ Ayumi Taguchi, **Konan Hara**, Jun Tomio, Kei Kawana, Tomoki Tanaka, Satoshi Bab
   Akira Kawata, Satoko Eguchi, Tetsushi Tsuruga, Mayuyo Mori, Katsuyuki Adachi,
   Takeshi Nagamatsu, Katsutoshi Oda, Toshiharu Yasugi, Yutaka Osuga, and
   Tomoyuki Fujii.
+
+[Association Measures of Claims-Based Algorithms for Common Chronic
+  Conditions Were Assessed Using Regularly Collected Data in Japan.](https://doi.org/10.1016/j.jclinepi.2018.03.004)
+*Journal of Clinical Epidemiology*, 99, 84--95, 2018.<br>
+**Konan Hara**, Jun Tomio, Thomas Svensson, Rika Ohkuma, Akiko Kishi Svensson, and
+  Tsutomu Yamazaki.
 
 ## Other Papers
 
