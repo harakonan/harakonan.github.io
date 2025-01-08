@@ -8,6 +8,7 @@ permalink: /research/
 ## Working Papers
 
 [Encouraging Renewable Investment: Risk Sharing Using Auctions](../assets/pdfs/Hara_RenewableRiskSharingAuction.pdf)<br>
+<span style="font-size:0.75em"> [[Online Appendix](../assets/pdfs/Hara_RenewableRiskSharingAuction_OnlineAppendix.pdf)] [[Replication Package](https://www.dropbox.com/scl/fo/jxivxg5jjy4487glaascw/ADH4K5u2De0wtVQy2AarC-8?rlkey=ta3a3617vbgpv7e8mtqqog0z6&st=tstlomx3&dl=0)] </span><br>
 <span style="font-size:0.75em"> Renewable energy's high upfront capital costs can make investors selling intermittent electricity into volatile wholesale markets substantially risk-averse. This paper quantifies the value of policymakers taking the risk from investors through power purchase agreements that ensure a certain price. I estimate an auction model that recovers investors' risk premium from their portfolio choices embedded in Brazil's long-term wind power purchase agreement auctions. To entice investors to install wind turbines costing $12.2 billion, the policymaker would save $4.4 billion by taking on 100% of the wholesale market risk, relative to a subsidy policy that left all the risk with the investors. </span>
 
 [Identification and Estimation of Dynamic Games with Unknown Information Structure](https://arxiv.org/abs/2205.03706)<br>
