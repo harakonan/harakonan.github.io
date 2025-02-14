@@ -88,7 +88,7 @@ Ayumi Taguchi, **Konan Hara**, Jun Tomio, Kei Kawana, Tomoki Tanaka, Satoshi Bab
 ## Other Papers
 
 [Key Challenges in Prehospital and Emergency Care in Indonesia and Malaysia: A Survey of Frontline Clinicians.](https://doi.org/10.1186/s13104-024-06916-3) *BMC Research Notes*, 17(1):287, 2024.<br>
-Akio Tokita, Hanako Nunokawa, Keibun Liu, Yuta Iwamoto, Tomohiro Sonoo, **Konan Hara**, Mikio Nakajima, Kiyomitsu Fukaguchi, Takanori Takeda, Amirudin Sanip, Dafsah A. Juzar, A/L Harvendhar Singh Gurjeet Singh, Lukito Condro, Monalisa Tobing, Muhammad Abdus-Syakur bin Abu Hasan, Nik Hisamuddin Nik Abdul Rahman, Orizanov Mahisa, Ramdinal Aviesena Zairinal, Mohd Khairulizwan Bin Ramli, Mohd Afiq Mohd Nor, Tadahiro Goto, and Mohd Idzwan Bin Zakaria.
+Akio Tokita, Hanako Nunokawa, Keibun Liu, Yuta Iwamoto, Tomohiro Sonoo, **Konan Hara**, Mikio Nakajima, Kiyomitsu Fukaguchi, Takanori Takeda, Amirudin Sanip, Dafsah A. Juzar, a/l Harvendhar Singh Gurjeet Singh, Lukito Condro, Monalisa Tobing, Muhammad Abdus-Syakur bin Abu Hasan, Nik Hisamuddin Nik Abdul Rahman, Orizanov Mahisa, Ramdinal Aviesena Zairinal, Mohd Khairulizwan Bin Ramli, Mohd Afiq Mohd Nor, Tadahiro Goto, and Mohd Idzwan Bin Zakaria.
 
 [Increased Risk of Placenta Previa and Preterm Birth in Pregnant
   Women With Endometriosis/Adenomyosis: A Propensity‐Score Matching Analysis
