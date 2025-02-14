@@ -18,12 +18,10 @@ permalink: /research/
 ## Work in Progress
 
 Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks<br>
-(with Yuki Ito)<br>
-<span style="font-size:0.75em"> We study the role of racial concordance between primary care physicians and specialists in physician referral network formation and its consequences on racial health disparity. Using a 20% random sample of Medicare beneficiaries in the United States, we find that primary care physicians refer patients to the same race specialists more than otherwise, especially when the patients are also the same race. We propose a structural framework to separately identify the racial concordance effect net of health outcome benefits on referral decisions and the racial concordance effect on health outcomes. </span>
+(with Yuki Ito)
 
 Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regulator Preferences<br>
-(with Gautam Gowrisankaran and Ashley Langer)<br>
-<span style="font-size:0.75em"> We develop a structural framework of the interplay between the regulator and coal power plants in the context of dynamic enforcement. Plants invest in pollution abatement technologies in response to the regulator's dynamic enforcement decisions. The regulator faces the trade-off between pollution and fines because heavy fines reduce pollution but harm the local economy. We estimate the regulator's utility function, formulated as the weighted sum of the disutility from pollution and fines, along with the plants' dynamic investment decision model. We use the model to evaluate how enforcement decisions affect the welfare of minority and low-income communities. </span>
+(with Gautam Gowrisankaran and Ashley Langer)
 
 ## Published Papers
 
@@ -34,6 +32,10 @@ Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regula
 # Public Health and Clinical Research
 
 ## Selected Papers
+
+[Machine-Learning Approaches to Predict Individualized Treatment Effect Using a Randomized Controlled Trial.](https://doi.org/10.1007/s10654-024-01185-7)
+*European Journal of Epidemiology*, 2025.<br>
+Rikuta Hamaya, **Konan Hara**, Joann E Manson, Eric B Rimm, Frank M Sacks, Qiaochu Xue, Lu Qi, and Nancy R Cook. 
 
 [Heterogeneous Treatment Effect of Dose‐Dense Paclitaxel Plus
   Carboplatin Therapy for Advanced Ovarian Cancer.](https://doi.org/10.1002/ijc.34996)
@@ -84,6 +86,9 @@ Ayumi Taguchi, **Konan Hara**, Jun Tomio, Kei Kawana, Tomoki Tanaka, Satoshi Bab
   Tsutomu Yamazaki.
 
 ## Other Papers
+
+[Key Challenges in Prehospital and Emergency Care in Indonesia and Malaysia: A Survey of Frontline Clinicians.](https://doi.org/10.1186/s13104-024-06916-3) *BMC Research Notes*, 17(1):287, 2024.<br>
+Akio Tokita, Hanako Nunokawa, Keibun Liu, Yuta Iwamoto, Tomohiro Sonoo, **Konan Hara**, Mikio Nakajima, Kiyomitsu Fukaguchi, Takanori Takeda, Amirudin Sanip, Dafsah A. Juzar, A/L Harvendhar Singh Gurjeet Singh, Lukito Condro, Monalisa Tobing, Muhammad Abdus-Syakur bin Abu Hasan, Nik Hisamuddin Nik Abdul Rahman, Orizanov Mahisa, Ramdinal Aviesena Zairinal, Mohd Khairulizwan Bin Ramli, Mohd Afiq Mohd Nor, Tadahiro Goto, and Mohd Idzwan Bin Zakaria.
 
 [Increased Risk of Placenta Previa and Preterm Birth in Pregnant
   Women With Endometriosis/Adenomyosis: A Propensity‐Score Matching Analysis
