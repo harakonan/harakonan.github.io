@@ -20,6 +20,9 @@ permalink: /research/
 Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks<br>
 (with Yuki Ito)
 
+Investment, Productivity, and Selection in the U.S. Shale Boom<br>
+(with Thomas R. Covert, Ryan Kellogg, and Richard L. Sweeney)
+
 Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regulator Preferences<br>
 (with Gautam Gowrisankaran and Ashley Langer)
 
