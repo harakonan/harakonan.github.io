@@ -36,13 +36,17 @@ Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regula
 
 ## Selected Papers
 
+[Machine Learning Algorithm to Explore Patients With Heterogeneous Treatment Effects of Clinically Significant CMV Infection and Non-Relapse Mortality After HSCT.](https://onlinelibrary.wiley.com/doi/10.1002/jha2.70117)
+*eJHaem*,　6(4), 1–-11, 2025.<br>
+Takashi Toya, Yujiro Nakajima, **Konan Hara**, Satoshi Kaito, Tetsuya Nishida, Naoyuki Uchida, Naoki Shingai, Wataru Takeda, Yukiyasu Ozawa, Masatsugu Tanaka, Satoshi Yoshihara, Yuta Katayama, Tetsuya Eto, Masashi Sawa, Shuichi Ota, Hiroyuki Ohigashi, Satoru Takada, Keisuke Kataoka, Junya Kanda, Takahiro Fukuda, Masao Ogata, Ayumi Taguchi, and Yoshiko Atsuta. 
+
 [Machine-Learning Approaches to Predict Individualized Treatment Effect Using a Randomized Controlled Trial.](https://doi.org/10.1007/s10654-024-01185-7)
-*European Journal of Epidemiology*, 2025.<br>
+*European Journal of Epidemiology*, 40(2), 151--166, 2025.<br>
 Rikuta Hamaya, **Konan Hara**, Joann E Manson, Eric B Rimm, Frank M Sacks, Qiaochu Xue, Lu Qi, and Nancy R Cook. 
 
 [Heterogeneous Treatment Effect of Dose‐Dense Paclitaxel Plus
   Carboplatin Therapy for Advanced Ovarian Cancer.](https://doi.org/10.1002/ijc.34996)
-*International Journal of Cancer*, pages 1--10, 2024.<br>
+*International Journal of Cancer*, 155(6), 1068--1077, 2024.<br>
 Ayumi Taguchi, Kosuke Kato, Akiko Furusawa, **Konan Hara**, Kenbun Sone, Kyosuke
   Yamada, Hiroaki Kajiyama, Muneaki Shimada, and Aikou Okamoto.
 
