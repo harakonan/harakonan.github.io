@@ -16,7 +16,7 @@
 repository: harakonan/harakonan.github.io
 title: Konan Hara
 subtitle: Assistant Professor <code>&#8212;</code> Michigan State University
-email: hara.konan@gmail.com
+email: harakon1@msu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am an Assistant Professor at the Department of Economics, Michigan State University.
 # twitter_username: username
@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : " "
   links:
-    - label: "hara.konan@gmail.com"
+    - label: "harakon1@msu.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hara.konan@gmail.com"
+      url: "mailto:harakon1@msu.edu"
     - label: "harakonan"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harakonan"
