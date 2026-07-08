@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-description: "Teaching by Konan Hara at Michigan State University."
+description: "Teaching at Michigan State University."
 permalink: /teaching/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Research by Konan Hara in applied microeconomics, including energy and environmental economics, industrial organization, and health economics. Also includes work on public health and clinical research."
+description: "Applied microeconomics, including energy and environmental economics, industrial organization, and health economics. Also includes work on public health and clinical research."
 permalink: /research/
 ---
 
@@ -31,49 +31,51 @@ Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regula
 ## Published Papers
 
 [The Effect of Inertia on Brand-Name versus Generic Drug Choices](https://doi.org/10.1016/j.jebo.2019.12.022)<br>
-(with Yuki Ito and Yasuki Kobayashi) *Journal of Economic Behavior & Organization*, 172, 364--379, April, 2020.
+(with Yuki Ito and Yasuki Kobayashi)<br>
+*Journal of Economic Behavior & Organization*, 172, 364--379, April, 2020.
 
 
 # Public Health and Clinical Research
 
 ## Selected Papers
 
-[Machine Learning Algorithm to Explore Patients With Heterogeneous Treatment Effects of Clinically Significant CMV Infection and Non-Relapse Mortality After HSCT.](https://onlinelibrary.wiley.com/doi/10.1002/jha2.70117)
-*eJHaem*,　6(4), 1–-11, 2025.<br>
+[Machine Learning Algorithm to Explore Patients With Heterogeneous Treatment Effects of Clinically Significant CMV Infection and Non-Relapse Mortality After HSCT.](https://onlinelibrary.wiley.com/doi/10.1002/jha2.70117)<br>
+*eJHaem*, 6(4), 1–-11, 2025.<br>
 Takashi Toya, Yujiro Nakajima, **Konan Hara**, Satoshi Kaito, Tetsuya Nishida, Naoyuki Uchida, Naoki Shingai, Wataru Takeda, Yukiyasu Ozawa, Masatsugu Tanaka, Satoshi Yoshihara, Yuta Katayama, Tetsuya Eto, Masashi Sawa, Shuichi Ota, Hiroyuki Ohigashi, Satoru Takada, Keisuke Kataoka, Junya Kanda, Takahiro Fukuda, Masao Ogata, Ayumi Taguchi, and Yoshiko Atsuta. 
 
-[Machine-Learning Approaches to Predict Individualized Treatment Effect Using a Randomized Controlled Trial.](https://doi.org/10.1007/s10654-024-01185-7)
+[Machine-Learning Approaches to Predict Individualized Treatment Effect Using a Randomized Controlled Trial.](https://doi.org/10.1007/s10654-024-01185-7)<br>
 *European Journal of Epidemiology*, 40(2), 151--166, 2025.<br>
 Rikuta Hamaya, **Konan Hara**, Joann E Manson, Eric B Rimm, Frank M Sacks, Qiaochu Xue, Lu Qi, and Nancy R Cook. 
 
 [Heterogeneous Treatment Effect of Dose‐Dense Paclitaxel Plus
-  Carboplatin Therapy for Advanced Ovarian Cancer.](https://doi.org/10.1002/ijc.34996)
+  Carboplatin Therapy for Advanced Ovarian Cancer.](https://doi.org/10.1002/ijc.34996)<br>
 *International Journal of Cancer*, 155(6), 1068--1077, 2024.<br>
 Ayumi Taguchi, Kosuke Kato, Akiko Furusawa, **Konan Hara**, Kenbun Sone, Kyosuke
   Yamada, Hiroaki Kajiyama, Muneaki Shimada, and Aikou Okamoto.
 
 [Prognosis of High‐Risk Human Papillomavirus‐Related Cervical
   Lesions: A Hidden Markov Model Analysis of a Single‐Center Cohort in
-  Japan.](https://doi.org/10.1002/cam4.4470)
+  Japan.](https://doi.org/10.1002/cam4.4470)<br>
 *Cancer Medicine*, 11(3), 664--675, 2022.<br>
 Ryo Ikesu, Ayumi Taguchi, **Konan Hara** (Co-corresponding Author), Kei Kawana, Tetsushi Tsuruga, Jun Tomio,
   and Yutaka Osuga.
 
 [Claims-Based Algorithms for Common Chronic Conditions Were
-  Efficiently Constructed Using Machine Learning Methods.](https://doi.org/10.1371/journal.pone.0254394)
+  Efficiently Constructed Using Machine Learning Methods.](https://doi.org/10.1371/journal.pone.0254394)<br>
 *PLOS ONE*, 16(9), e0254394, 2021.<br>
 **Konan Hara**, Yasuki Kobayashi, Jun Tomio, Yuki Ito, Thomas Svensson, Ryo Ikesu,
-  Ung-il Chung, and Akiko Kishi Svensson.
+  Ung-il Chung, and Akiko Kishi Svensson.<br>
+[[code](https://github.com/harakonan/research-public/tree/master/cba/machine-learning)]
 
 [Radiation Therapy and the Risk of Herpes Zoster in Patients with
-  Cancer.](https://doi.org/10.1002/cncr.32926)
+  Cancer.](https://doi.org/10.1002/cncr.32926)<br>
 *Cancer*, 126(15), 3552--3559, 2020.<br>
 Takuya Shimizuguchi, Noritaka Sekiya, **Konan Hara**, Ayumi Taguchi, Yujiro
   Nakajima, Yu Miyake, Yukiko Shibata, Kentaro Taguchi, Hiroaki Ogawa, Kei Ito,
   and Katsuyuki Karasawa.
 
 [Heterogeneous Impact of Cytomegalovirus Reactivation on Nonrelapse
-  Mortality in Hematopoietic Stem Cell Transplantation.](https://doi.org/10.1182/bloodadvances.2019000814)
+  Mortality in Hematopoietic Stem Cell Transplantation.](https://doi.org/10.1182/bloodadvances.2019000814)<br>
 *Blood Advances*, 4(6), 1051--1061, 2020.<br>
 Satoshi Kaito, Yujiro Nakajima, **Konan Hara**, Takashi Toya, Tetsuya Nishida,
   Naoyuki Uchida, Junichi Mukae, Takahiro Fukuda, Yukiyasu Ozawa, Masatsugu
@@ -81,27 +83,30 @@ Satoshi Kaito, Yujiro Nakajima, **Konan Hara**, Takashi Toya, Tetsuya Nishida,
   Yoshiko Atsuta, Masao Ogata, Ayumi Taguchi, and Kazuteru Ohashi.
 
 [Multistate Markov Model to Predict the Prognosis of High-Risk Human
-  Papillomavirus-Related Cervical Lesions.](https://doi.org/10.3390/cancers12020270)
+  Papillomavirus-Related Cervical Lesions.](https://doi.org/10.3390/cancers12020270)<br>
 *Cancers*, 12(2), 270, 2020.<br>
 Ayumi Taguchi, **Konan Hara**, Jun Tomio, Kei Kawana, Tomoki Tanaka, Satoshi Baba,
   Akira Kawata, Satoko Eguchi, Tetsushi Tsuruga, Mayuyo Mori, Katsuyuki Adachi,
   Takeshi Nagamatsu, Katsutoshi Oda, Toshiharu Yasugi, Yutaka Osuga, and
-  Tomoyuki Fujii.
+  Tomoyuki Fujii.<br>
+[[code](https://github.com/harakonan/research-public/tree/master/cin-markov)]
 
 [Association Measures of Claims-Based Algorithms for Common Chronic
-  Conditions Were Assessed Using Regularly Collected Data in Japan.](https://doi.org/10.1016/j.jclinepi.2018.03.004)
+  Conditions Were Assessed Using Regularly Collected Data in Japan.](https://doi.org/10.1016/j.jclinepi.2018.03.004)<br>
 *Journal of Clinical Epidemiology*, 99, 84--95, 2018.<br>
 **Konan Hara**, Jun Tomio, Thomas Svensson, Rika Ohkuma, Akiko Kishi Svensson, and
-  Tsutomu Yamazaki.
+  Tsutomu Yamazaki.<br>
+[[code](https://github.com/harakonan/research-public/tree/master/cba/checkup)]
 
 ## Other Papers
 
-[Key Challenges in Prehospital and Emergency Care in Indonesia and Malaysia: A Survey of Frontline Clinicians.](https://doi.org/10.1186/s13104-024-06916-3) *BMC Research Notes*, 17(1):287, 2024.<br>
+[Key Challenges in Prehospital and Emergency Care in Indonesia and Malaysia: A Survey of Frontline Clinicians.](https://doi.org/10.1186/s13104-024-06916-3)<br>
+*BMC Research Notes*, 17(1):287, 2024.<br>
 Akio Tokita, Hanako Nunokawa, Keibun Liu, Yuta Iwamoto, Tomohiro Sonoo, **Konan Hara**, Mikio Nakajima, Kiyomitsu Fukaguchi, Takanori Takeda, Amirudin Sanip, Dafsah A. Juzar, a/l Harvendhar Singh Gurjeet Singh, Lukito Condro, Monalisa Tobing, Muhammad Abdus-Syakur bin Abu Hasan, Nik Hisamuddin Nik Abdul Rahman, Orizanov Mahisa, Ramdinal Aviesena Zairinal, Mohd Khairulizwan Bin Ramli, Mohd Afiq Mohd Nor, Tadahiro Goto, and Mohd Idzwan Bin Zakaria.
 
 [Increased Risk of Placenta Previa and Preterm Birth in Pregnant
   Women With Endometriosis/Adenomyosis: A Propensity‐Score Matching Analysis
-  of a Nationwide Perinatal Database in Japan.](https://doi.org/10.1111/jog.15849)
+  of a Nationwide Perinatal Database in Japan.](https://doi.org/10.1111/jog.15849)<br>
 *Journal of Obstetrics and Gynaecology Research*, 50(3):351--357,
   2024.<br>
 Kosuke Kato, Takayuki Iriyama, **Konan Hara**, Kensuke Suzuki, Ayako Hashimoto,
@@ -110,7 +115,7 @@ Kosuke Kato, Takayuki Iriyama, **Konan Hara**, Kensuke Suzuki, Ayako Hashimoto,
   Yutaka Osuga.
 
 [Heterogeneous Effects of Cytotoxic Chemotherapies for
-  Platinum-Resistant Ovarian Cancer.](https://doi.org/10.1007/s10147-023-02367-1)
+  Platinum-Resistant Ovarian Cancer.](https://doi.org/10.1007/s10147-023-02367-1)<br>
 *International Journal of Clinical Oncology*, 28(9), 1207--1217,
   2023.<br>
 Katsuhiko Nara, Ayumi Taguchi, Takehito Yamamoto, **Konan Hara**, Yuri Tojima,
@@ -118,21 +123,21 @@ Katsuhiko Nara, Ayumi Taguchi, Takehito Yamamoto, **Konan Hara**, Yuri Tojima,
   Sone, Mayuyo Mori, Tappei Takada, and Yutaka Osuga.
 
 [Heterogeneous Treatment Effects of Adjuvant Therapy for Patients
-   with Cervical Cancer in the Intermediate‐Risk Group.](https://doi.org/10.1002/cam4.6460)
+   with Cervical Cancer in the Intermediate‐Risk Group.](https://doi.org/10.1002/cam4.6460)<br>
 *Cancer Medicine*, 12(18), 18557--18567, 2023.<br>
 Ayumi Taguchi, Kosuke Kato, **Konan Hara**, Akiko Furusawa, Yujiro Nakajima,
   Chihiro Ishizawa, Michihiro Tanikawa, Kenbun Sone, Mayuyo Mori, Muneaki
   Shimada, Aikou Okamoto, and Munetaka Takekuma.
 
 [Gestational Stage-Specific Association of Hemoglobin Concentration
-  with the Risk of Preterm Birth and Small for Gestational Age.](https://doi.org/10.14390/jsshp.HRP2023-001)
+  with the Risk of Preterm Birth and Small for Gestational Age.](https://doi.org/10.14390/jsshp.HRP2023-001)<br>
 *Hypertension Research in Pregnancy*, 11(2), 25--35, 2023.<br>
 Masatake Toshimitsu, Norikazu Ueki, **Konan Hara**, Jun Takeda, Shintaro Makino,
   Kosuke Kato, Keiichi Kumasawa, Takayuki Iriyama, Takeshi Nagamatsu, and
   Yutaka Osuga.
 
 [Impact of Lung Function Impairment after Allogeneic Hematopoietic
-  Stem Cell Transplantation.](https://doi.org/10.1038/s41598-022-18553-6)
+  Stem Cell Transplantation.](https://doi.org/10.1038/s41598-022-18553-6)<br>
 *Scientific Reports*, 12(1), 14155, 2022.<br>
 Yuya Kishida, Naoki Shingai, **Konan Hara**, Makiko Yomota, Chika Kato, Satoshi
   Sakai, Yasuhiro Kambara, Yuya Atsuta, Ryosuke Konuma, Atsushi Wada, Daisuke
@@ -142,54 +147,54 @@ Yuya Kishida, Naoki Shingai, **Konan Hara**, Makiko Yomota, Chika Kato, Satoshi
 
 [Acceptance, Barriers, and Facilitators to Implementing Artificial
   Intelligence–Based Decision Support Systems in Emergency Departments:
-  Quantitative and Qualitative Evaluation.](https://doi.org/10.2196/36501)
+  Quantitative and Qualitative Evaluation.](https://doi.org/10.2196/36501)<br>
 *JMIR Formative Research*, 6(6), e36501, 2022.<br>
 Ryo Fujimori, Keibun Liu, Shoko Soeno, Hiromu Naraba, Kentaro Ogura, **Konan Hara**,
   Tomohiro Sonoo, Takayuki Ogura, Kensuke Nakamura, and Tadahiro Goto.
 
 [Adherence to Daily, Weekly, and Monthly Dosing Regimens of
   Bisphosphonates for Osteoporosis Treatment in Postmenopausal Women in Japan:
-  A Retrospective Study Using Claims Data.](https://doi.org/10.1620/tjem.255.147)
+  A Retrospective Study Using Claims Data.](https://doi.org/10.1620/tjem.255.147)<br>
 *The Tohoku Journal of Experimental Medicine*, 255(2), 147--155,
   2021.<br>
 Yuki Kosaka, Takehiro Sugiyama, **Konan Hara**, and Yasuki Kobayashi.
 
 [Knowledge, Experience, and Perceptions of Generic Drugs among
   Middle-Aged Adults and Their Willingness-to-Pay: A Nationwide Online Survey
-  in Japan.](https://doi.org/10.1620/tjem.255.9)
+  in Japan.](https://doi.org/10.1620/tjem.255.9)<br>
 *The Tohoku Journal of Experimental Medicine*, 255(1), 9--17,
   2021.<br>
 Yuki Ito, **Konan Hara**, Hajime Sato, and Jun Tomio.
 
 [Clinical Performance of Early Warning Scoring Systems for
-  Identifying Sepsis among Anti-hypertensive Agent Users.](https://doi.org/10.1016/j.ajem.2021.03.091)
+  Identifying Sepsis among Anti-hypertensive Agent Users.](https://doi.org/10.1016/j.ajem.2021.03.091)<br>
 *The American Journal of Emergency Medicine*, 48, 120--127, 2021.<br>
 Itsuki Osawa, Tomohiro Sonoo, Shoko Soeno, **Konan Hara**, Kensuke Nakamura, and
   Tadahiro Goto.
 
 [Association of Initial Potassium Levels with the Type of Stroke in
-  the Emergency Department.](https://doi.org/10.1016/j.jstrokecerebrovasdis.2021.105875)
+  the Emergency Department.](https://doi.org/10.1016/j.jstrokecerebrovasdis.2021.105875)<br>
 *Journal of Stroke and Cerebrovascular Diseases*, 30(8), 105875,
   2021.<br>
 Kiyomitsu Fukaguchi, Hiroshi Yamagami, Shoko Soeno, **Konan Hara**, Toru Shirakawa,
   Tomohiro Sonoo, Kensuke Nakamura, and Tadahiro Goto.
 
 [Initial Assessment in Emergency Departments by Chief Complaint and
-  Respiratory Rate.](https://doi.org/10.1002/jgf2.423)
+  Respiratory Rate.](https://doi.org/10.1002/jgf2.423)<br>
 *Journal of General and Family Medicine*, 22(4), 202--208, 2021.<br>
 Shoko Soeno, **Konan Hara**, Ryo Fujimori, Katsuhiko Hashimoto, Toru Shirakawa,
   Tomohiro Sonoo, Kensuke Nakamura, and Tadahiro Goto.
 
 [Validation of Chief Complaints, Medical History, Medications, and
   Physician Diagnoses Structured with an Integrated Emergency Department
-  Information System in Japan: The Next Stage ER System.](https://doi.org/10.1002/ams2.554)
+  Information System in Japan: The Next Stage ER System.](https://doi.org/10.1002/ams2.554)<br>
 *Acute Medicine & Surgery*, 7(1), 1--8, 2020.<br>
 Tadahiro Goto, **Konan Hara**, Katsuhiko Hashimoto, Shoko Soeno, Toru Shirakawa,
   Tomohiro Sonoo, and Kensuke Nakamura.
 
 [Clinical Outcomes in Donors and Recipients of Kidney
   Transplantations Involving Medically Complex Living Donors – A
-  Retrospective Study.](https://doi.org/10.1111/tri.13699)
+  Retrospective Study.](https://doi.org/10.1111/tri.13699)<br>
 *Transplant International*, 33(11), 1417--1423, 2020.<br>
 Yoshitaka Kinoshita, Takashi Yagisawa, Toru Sugihara, **Konan Hara**, Saki
   Takeshima, Taro Kubo, Takahiro Shinzato, Toshihiro Shimizu, Michiko Suzuki,
@@ -197,7 +202,7 @@ Yoshitaka Kinoshita, Takashi Yagisawa, Toru Sugihara, **Konan Hara**, Saki
   Haruki Kume, and Tetsuya Fujimura.
 
 [Differential Expression of Human Papillomavirus 16-, 18-, 52-, and
-  58-Derived Transcripts in Cervical Intraepithelial Neoplasia.](https://doi.org/10.1186/s12985-020-01306-0)
+  58-Derived Transcripts in Cervical Intraepithelial Neoplasia.](https://doi.org/10.1186/s12985-020-01306-0)<br>
 *Virology Journal*, 17(1), 32, 2020.<br>
 Satoshi Baba, Ayumi Taguchi, Akira Kawata, **Konan Hara**, Satoko Eguchi, Mayuyo
   Mori, Katsuyuki Adachi, Seiichiro Mori, Takashi Iwata, Akira Mitsuhashi,
@@ -206,7 +211,7 @@ Satoshi Baba, Ayumi Taguchi, Akira Kawata, **Konan Hara**, Satoko Eguchi, Mayuyo
 
 [Postradiotherapy Persistent Lymphopenia as a Poor Prognostic Factor
   in Patients with Cervical Cancer Receiving Radiotherapy: A Single-Center,
-  Retrospective Study.](https://doi.org/10.1007/s10147-020-01623-y)
+  Retrospective Study.](https://doi.org/10.1007/s10147-020-01623-y)<br>
 *International Journal of Clinical Oncology*, 25(5), 955--962,
   2020.<br>
 Ayumi Taguchi, Akiko Furusawa, Kei Ito, Yujiro Nakajima, Takuya Shimizuguchi,
@@ -214,12 +219,12 @@ Ayumi Taguchi, Akiko Furusawa, Kei Ito, Yujiro Nakajima, Takuya Shimizuguchi,
   Toshiharu Yasugi.
 
 [Can Income-Based Co-payment Rates Improve Disparity? The Case of the
-  Choice between Brand-Name and Generic Drugs.](https://doi.org/10.1186/s12913-019-4598-8)
+  Choice between Brand-Name and Generic Drugs.](https://doi.org/10.1186/s12913-019-4598-8)<br>
 *BMC Health Services Research*, 19(1), 780, 2019.<br>
 Yuki Ito, **Konan Hara**, Byung-kwang Yoo, Jun Tomio, and Yasuki Kobayashi.
 
 [Plasma Cell Neoplasm as a Risk Factor for Early Thrombosis of
-  Arteriovenous Fistula.](https://doi.org/10.1111/hdi.12581)
+  Arteriovenous Fistula.](https://doi.org/10.1111/hdi.12581)<br>
 *Hemodialysis International*, 22(2), 176--179, 2018.<br>
 Yoshitaka Kinoshita, Akira Ishikawa, **Konan Hara**, Toru Sugihara, Yoshitaka
   Ishibashi, and Yukio Homma.
