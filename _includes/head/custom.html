@@ -3,4 +3,30 @@
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
 <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
 
+<style>
+  @media (max-width: 1023px) {
+    .layout--home .author__avatar {
+      display: block;
+      width: 96px;
+      height: 96px;
+      margin-top: 1.25em;
+      margin-bottom: 1.25em;
+      overflow: hidden;
+      border-radius: 50%;
+    }
+
+    .layout--home .author__avatar img {
+      display: block;
+      width: 96px;
+      max-width: 96px;
+      height: 96px;
+      object-fit: cover;
+      object-position: center 42%;
+      border-radius: 0;
+      transform: scale(1.25);
+      transform-origin: center 42%;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
