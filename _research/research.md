@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: " "
+description: "Research by Konan Hara in applied microeconomics, including energy and environmental economics, industrial organization, and health economics. Also includes work on public health and clinical research."
 permalink: /research/
 ---
 
