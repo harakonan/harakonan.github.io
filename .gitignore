@@ -1,0 +1,9 @@
+.DS_Store
+
+# Local Ruby/Bundler/Jekyll artifacts
+.bundle/
+vendor/bundle/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/

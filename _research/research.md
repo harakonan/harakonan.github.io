@@ -16,13 +16,14 @@ permalink: /research/
 (with Yuki Ito and Paul Koh)<br>
 <span style="font-size:0.75em"> We develop an empirical framework for analyzing dynamic games when the underlying information structure is unknown to the analyst. We introduce *Markov correlated equilibrium*, a dynamic analog of Bayes correlated equilibrium, and show that its predictions coincide with the Markov perfect equilibrium predictions attainable when players observe richer signals than the analyst assumes. We provide tractable methods for informationally robust estimation, inference, and counterfactual analysis. We illustrate the framework with a dynamic entry game between Starbucks and Dunkin' in the US and study the role of informational assumptions. </span>
 
+[Investment, Productivity, and Selection in the U.S. Shale Boom](../assets/pdfs/chks_shaleprod_combined.pdf)<br>
+(with Thomas R. Covert, Ryan Kellogg, and Richard L. Sweeney)<br>
+<span style="font-size:0.75em"> The goal of this paper is to understand why output per well increased so dramatically during the shale boom. A core question is the extent to which production growth arose from changes in well site selection---i.e., changes in the underlying geological quality of the precise areas being drilled---or from changes in firms' operational decisions, such as changes in inputs and adoption of new technologies. We develop a joint model of well-level production and drilling decisions that allows us to address site selection that comes from firms' private ex ante signals of sites' underlying geologic quality and from firms' ability to learn about quality over time by observing drilled wells' production outcomes. The model is designed to account for not just whether but when sites are drilled. We estimate the model using data on drilling, production, and leasing from two major U.S. shale plays: the Bakken in North Dakota and the Haynesville in Louisiana. We find that site selection has been important: firms initially drilled areas for which they had initial signals of high quality, and then they later repeatedly drilled in areas that had positive production outcomes. But after accounting for selection, as well as reservoir depletion, firms' operational improvements emerge as the largest driver of output growth. These improvements occurred within firms, rather than being driven by reallocation of drilling activity to more productive firms. Price and cost data suggest that these gains were driven by improvements in the productivity with which firms brought together drilling inputs. </span>
+
 ## Work in Progress
 
 Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks<br>
 (with Yuki Ito)
-
-Investment, Productivity, and Selection in the U.S. Shale Boom<br>
-(with Thomas R. Covert, Ryan Kellogg, and Richard L. Sweeney)
 
 Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regulator Preferences<br>
 (with Gautam Gowrisankaran and Ashley Langer)
@@ -222,4 +223,3 @@ Yuki Ito, **Konan Hara**, Byung-kwang Yoo, Jun Tomio, and Yasuki Kobayashi.
 *Hemodialysis International*, 22(2), 176--179, 2018.<br>
 Yoshitaka Kinoshita, Akira Ishikawa, **Konan Hara**, Toru Sugihara, Yoshitaka
   Ishibashi, and Yukio Homma.
-
