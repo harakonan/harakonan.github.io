@@ -7,3 +7,13 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
+
+# LaTeX build artifacts for the website CV source.
+cv-source/*.aux
+cv-source/*.bbl
+cv-source/*.blg
+cv-source/*.fdb_latexmk
+cv-source/*.fls
+cv-source/*.log
+cv-source/*.out
+cv-source/CV_KH.pdf
