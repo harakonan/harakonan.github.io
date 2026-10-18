@@ -25,9 +25,6 @@ permalink: /research/
 Primary Care Physician-Specialist Racial Concordance in Forming Referral Networks<br>
 (with Yuki Ito)
 
-Regulating Power Plant Emissions: Environmental Justice, Enforcement, and Regulator Preferences<br>
-(with Gautam Gowrisankaran and Ashley Langer)
-
 ## Published Papers
 
 [The Effect of Inertia on Brand-Name versus Generic Drug Choices](https://doi.org/10.1016/j.jebo.2019.12.022)<br>
